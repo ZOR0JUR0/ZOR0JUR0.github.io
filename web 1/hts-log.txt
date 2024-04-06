@@ -1,0 +1,17 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 05 Apr 2024 16:47:01 at https://muizzkarim10.wixsite.com/my-site +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://muizzkarim10.wixsite.com/my-site -O1 "C:\My Web Sites\web 1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:47:21	Error: 	"Not Found" (404) at link https://muizzkarim10.wixsite.com/ (from https://muizzkarim10.wixsite.com/my-site)
+16:47:21	Error: 	"Not Found" (404) at link https://muizzkarim10.wixsite.com/media/emptystate.85a4add5.svg (from https://muizzkarim10.wixsite.com/my-site)
+16:47:21	Error: 	"Not Found" (404) at link https://muizzkarim10.wixsite.com/sitemap.xml (from https://muizzkarim10.wixsite.com/my-site)
+16:47:21	Error: 	"Not Found" (404) at link https://muizzkarim10.wixsite.com/feed.xml (from https://muizzkarim10.wixsite.com/my-site)
+16:47:21	Error: 	"Not Found" (404) at link https://muizzkarim10.wixsite.com/${n.uri} (from https://muizzkarim10.wixsite.com/my-site)
+16:47:21	Error: 	"Not Found" (404) at link https://muizzkarim10.wixsite.com/decodeURIComponent(e (from https://muizzkarim10.wixsite.com/my-site)
+
+HTTrack Website Copier/3.49-2 mirror complete in 20 seconds : 32 links scanned, 25 files written (1584466 bytes overall) [630363 bytes received at 31518 bytes/sec], 1390429 bytes transferred using HTTP compression in 18 files, ratio 27%, 1.4 requests per connection
+(6 errors, 0 warnings, 0 messages)
